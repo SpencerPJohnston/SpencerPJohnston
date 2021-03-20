@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SpencerPJohnston
-- 👀 I’m interested in Data Analytics and Data Science
+- 👀 I’m interested in Data Analytics/Science, Game Development/Design, and Videgame Sound Design.
 - 🌱 I’m currently learning NLP using Python 
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me linkedin.com/in/spencerpjohnston
